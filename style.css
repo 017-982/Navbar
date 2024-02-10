@@ -36,7 +36,7 @@ a:hover{
 color:yellowgreen;
 }
 .active{
-background-color:yellowgreen;}
+color:yellowgreen;}
 // <uniquifier>: Use a uniquifier for the class name
 // <weight>: Use a value from 300 to 700
 
